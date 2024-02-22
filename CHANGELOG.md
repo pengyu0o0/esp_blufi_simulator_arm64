@@ -26,3 +26,7 @@
 ## 0.0.7
 
 * fix bug
+
+## 0.0.8
+
+* Android Wi-Fi connect status result
