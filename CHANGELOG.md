@@ -30,3 +30,7 @@
 ## 0.0.8
 
 * Android Wi-Fi connect status result
+
+## 0.0.9
+
+* Update gradle build tools to 8.5.2
