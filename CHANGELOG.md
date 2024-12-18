@@ -34,3 +34,7 @@
 ## 0.0.9
 
 * Update gradle build tools to 8.5.2
+
+## 0.1.0
+
+* Update IPHONEOS_DEPLOYMENT_TARGET from 11.0 to 12.0
