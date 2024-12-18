@@ -38,3 +38,7 @@
 ## 0.1.0
 
 * Update IPHONEOS_DEPLOYMENT_TARGET from 11.0 to 12.0
+
+## 0.1.1
+
+* Update openssl to 1.1.1w for iPhoneOS 18.2-arm64
