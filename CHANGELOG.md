@@ -1,27 +1,18 @@
-## 0.0.1
+## 0.1.2
 
-* Allows Blufi connection to your ESP BLUFI configured devices
-* Dynamically pass wifi credentials to your ESP device to connect to WiFi
+* Fix dh secret
 
-## 0.0.2
+## 0.1.1
 
-* iOS open/ssl header files link
+* Update openssl to 1.1.1w for iPhoneOS 18.2-arm64
 
-## 0.0.3
+## 0.1.0
 
-* Bug fix
+* Update IPHONEOS_DEPLOYMENT_TARGET from 11.0 to 12.0
 
-## 0.0.4
+## 0.0.9
 
-* Bug fix
-
-## 0.0.5
-
-* Bug fix
-
-## 0.0.6
-
-* Scan Wi-Fi from device
+* Update gradle build tools to 8.5.2
 
 ## 0.0.7
 
@@ -31,14 +22,41 @@
 
 * Android Wi-Fi connect status result
 
-## 0.0.9
+## 0.0.6
 
-* Update gradle build tools to 8.5.2
+* Scan Wi-Fi from device
 
-## 0.1.0
+## 0.0.5
 
-* Update IPHONEOS_DEPLOYMENT_TARGET from 11.0 to 12.0
+* Bug fix
+## 0.0.4
 
-## 0.1.1
+* Bug fix
 
-* Update openssl to 1.1.1w for iPhoneOS 18.2-arm64
+## 0.0.3
+
+* Bug fix
+
+## 0.0.2
+
+* iOS open/ssl header files link
+
+## 0.0.1
+
+* Allows Blufi connection to your ESP BLUFI configured devices
+* Dynamically pass wifi credentials to your ESP device to connect to WiFi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
