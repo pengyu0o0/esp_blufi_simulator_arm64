@@ -1,3 +1,7 @@
+## 0.1.3
+
+* upgrade gradle
+
 ## 0.1.2
 
 * Fix dh secret
