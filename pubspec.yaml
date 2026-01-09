@@ -1,6 +1,6 @@
 name: esp_blufi_simulator_arm64
 description: "Wi-Fi configuration through BLUFI protocol for ESP BLUFI enabled devices"
-version: 0.1.4
+version: 0.1.6
 homepage: "https://github.com/RianOvO/esp_blufi_simulator_arm64"
 repository: "https://github.com/RianOvO/esp_blufi_simulator_arm64"
 
