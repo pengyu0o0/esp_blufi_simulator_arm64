@@ -1,3 +1,7 @@
+## 0.1.4
+
+* Update OpenSSL to version 1.1.1w to support iOS 26.2
+
 ## 0.1.3
 
 * upgrade gradle
